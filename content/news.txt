@@ -1,1 +1,1 @@
-It is highly recommended that you enable the API in our plugin configuration. Use !dtapi for more info.
+0
